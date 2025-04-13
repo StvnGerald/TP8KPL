@@ -1,0 +1,14 @@
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\bin\Debug\net8.0\TP8.exe
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\bin\Debug\net8.0\TP8.deps.json
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\bin\Debug\net8.0\TP8.runtimeconfig.json
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\bin\Debug\net8.0\TP8.dll
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\bin\Debug\net8.0\TP8.pdb
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\obj\Debug\net8.0\TP8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\obj\Debug\net8.0\TP8.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\obj\Debug\net8.0\TP8.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\obj\Debug\net8.0\TP8.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\obj\Debug\net8.0\TP8.dll
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\obj\Debug\net8.0\refint\TP8.dll
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\obj\Debug\net8.0\TP8.pdb
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\obj\Debug\net8.0\TP8.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Documents\File TP KPL\TP8\TP8\obj\Debug\net8.0\ref\TP8.dll
